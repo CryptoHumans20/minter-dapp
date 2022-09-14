@@ -146,4 +146,4 @@ dist
 build*
 # Local Netlify folder
 .netlify
-frontend/js/constants.js
+
