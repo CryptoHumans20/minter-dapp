@@ -1,4 +1,4 @@
-let accounts;
+
 
 //Countdown Timer
 const clockdiv = document.getElementById("countdown");
